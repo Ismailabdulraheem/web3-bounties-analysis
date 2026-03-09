@@ -4,8 +4,6 @@
 
 I analyzed 384 completed crypto data bounties (2022-2023) to decode the market demand for blockchain analysts and data scientists.
 
-![Analysis Overview](web3_bounty_analysis_charts.png)
-
 ## 🎯 Key Findings
 
 - **45.6%** of bounties are intermediate-level (sweet spot for career growth)
